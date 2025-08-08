@@ -3,15 +3,6 @@ import { Dialog } from "@headlessui/react";
 
 const images = [
   "IMG_0154.jpeg",
-  "IMG_6694.jpeg",
-  "IMG_6780.jpeg",
-  "IMG_6791.jpeg",
-  "IMG_6853.jpeg",
-  "IMG_6879.jpeg",
-  "IMG_7098.jpeg",
-  "IMG_7107.jpeg",
-  "IMG_7156.jpeg",
-  "IMG_7197.jpeg",
 ];
 
 export default function Home() {
